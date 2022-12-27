@@ -3,6 +3,7 @@
 TEMATICA 6: Clases y Objetos
 
 Ejercicio 1:
+
   En este ejercicio vais a crear la clase Vehículo la cual tendrá los siguientes atributos:
 -Color
 -Ruedas
