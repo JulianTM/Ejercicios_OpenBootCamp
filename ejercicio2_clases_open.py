@@ -1,10 +1,11 @@
 
 class Alumno:
-
+# programa que tenga una clase llamada Alumno que tenga como atributos su nombre y su nota.
     def __init__(self, nombre, nota):
         self.nombre = nombre
         self.nota = nota
-
+# Deberéis de definir los métodos para inicializar sus atributos,
+# imprimirlos y mostrar un mensaje con el resultado de la nota y si ha aprobado o no.
     def datos(self):
         print(f"Nombre: {self.nombre}\n"
               f"Nota: {self.nota}")
